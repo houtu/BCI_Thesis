@@ -1,3 +1,0 @@
-statannot
-seaborn
-matplotlib
