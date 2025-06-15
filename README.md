@@ -1,2 +1,13 @@
-# BCI_Thesis
-This repository contains code and documentation for my undergraduate thesis, focusing on the analysis of EEG data in the  Brain–Computer Interface (BCI) research.
+
+## Reproduce the results
+* Install library
+
+```pip install matplotlib seaborn statannot```
+
+* Run the script
+
+```python main.py --mode survey```
+
+```python main.py --mode within_group```
+
+```python main.py --mode between_group```
