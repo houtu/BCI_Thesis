@@ -1,9 +1,9 @@
-# Description
 
-# ml_benchmark
-python benchmark_ml-main/run.py
+## Reproduce the results
+* Install library
 
-# analysis_main 
+```pip install matplotlib seaborn statannot```
+
 * Run the script
 
 ```python main.py --mode survey```
@@ -11,4 +11,3 @@ python benchmark_ml-main/run.py
 ```python main.py --mode within_group```
 
 ```python main.py --mode between_group```
-
